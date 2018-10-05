@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-proj-spring-boot.iml" filepath="$PROJECT_DIR$/multi-module-proj-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistance/persistance.iml" filepath="$PROJECT_DIR$/persistance/persistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>
